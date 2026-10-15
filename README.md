@@ -27,43 +27,9 @@ I'm learning Python Full Stack Development and exploring modern web technologies
 
 ## 🐍 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
-</p>"Python" (https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-Practice-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📚 Topics Practiced
-
-- 🔹 Variables, Data Types & Operators
-- 🔹 Conditional Statements & Loops
-- 🔹 Functions, Arguments & Recursion
-- 🔹 Lists, Tuples, Sets & Dictionaries
-- 🔹 Classes, Objects & Constructors
-- 🔹 Encapsulation, Inheritance & Polymorphism
-- 🔹 Exception Handling
-- 🔹 DOM Manipulation & JavaScript Fundamentals
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite" alt="HTML CSS Bootstrap React Vite"/>
-</p>"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-"React" (https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-## ⚛️ React Concepts
-
-- 🧱 Components, JSX & Props
-- 🔄 State Management with "useState"
-- 🪝 React Hooks & "useEffect"
-- 🌍 Context API
-- 🧭 React Router
-- 🔌 API Fetching & Integration
-- 💾 Local Storage
-- 📝 Forms & CRUD Operations
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,postgres,git,github,vscode" />
+</p>
 
 ⚙️ Backend Development
 
