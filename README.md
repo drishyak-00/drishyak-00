@@ -31,24 +31,6 @@ I'm learning Python Full Stack Development and exploring modern web technologies
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,postgres,git,github,vscode" />
 </p>
 
-⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,flask" alt="Python Django Flask"/>
-</p>"Python" (https://img.shields.io/badge/Python-Backend%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- 🐍 Python Programming & OOP
-- 🔗 Learning backend development concepts
-- 🌐 Exploring REST API concepts
-
-Django and Flask are technologies to explore as part of my learning journey.
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/>
-</p>- 🗃️ Learning database fundamentals
-- 🔍 Exploring SQL and database operations
 
 🔧 Tools & Platforms
 
