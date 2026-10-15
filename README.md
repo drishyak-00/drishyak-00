@@ -31,21 +31,6 @@ I'm learning Python Full Stack Development and exploring modern web technologies
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,postgres,git,github,vscode" />
 </p>
 
-
-🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git GitHub VS Code npm"/>
-</p>"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-- 📂 Repository Management
-- 📌 Git Add, Commit & Push
-- 🐞 Debugging & Code Practice
-- 🖥️ VS Code Development Environment
-
-
 📖 Currently Learning
 
 - 🐍 Python & Object-Oriented Programming
